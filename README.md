@@ -1,4 +1,4 @@
-# Distance-Sensor-Using-Raspberry-Pi-Pico-ESP01-Wifi-and-HCSR04-Ultrasonic-Sensor
+# Distance Sensor Using Raspberry Pi Pico, ESP01 Wifi, and HCSR04 Ultrasonic Sensor
 
 This code allows you to measure distance using Raspberry Pi Pico, ESP01 Wifi, and HCSR04 Ultrasonic Sensor.
 
